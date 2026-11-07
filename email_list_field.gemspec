@@ -33,7 +33,7 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency 'jquery-rails', '~> 4.6.0'
   spec.add_runtime_dependency 'jquery-ui-rails', '~> 7.0'
 
-  spec.add_development_dependency "bundler", "~> 2.4.0"
+  spec.add_development_dependency "bundler", ">= 2.4"
   spec.add_development_dependency "rake", "~> 13.0"
   spec.add_development_dependency "rspec", "~> 3.12.0"
 end
