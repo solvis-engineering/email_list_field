@@ -1,3 +1,4 @@
+require 'rails'
 require 'taggle'
 
 module EmailListField
